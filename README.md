@@ -1,2 +1,2 @@
-# java-multithreading-producer-consumer-problem
-자바 동시성 생산자-소비자 문제
+# 문제 출처
+[w3resource](https://www.w3resource.com/java-exercises/multithreading/index.php)
